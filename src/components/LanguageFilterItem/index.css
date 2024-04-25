@@ -1,0 +1,20 @@
+/* Write your CSS here */
+
+.btn-class {
+  background-color: transparent;
+  font-size: 15px;
+  font-weight: bold;
+  height: 30px;
+  padding: 15px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 5px;
+  border: none;
+}
+.active {
+  border: 2px solid #0284c7;
+  border-radius: 15px;
+  color: #0284c7;
+  background-color: transparent;
+}

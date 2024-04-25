@@ -1,0 +1,31 @@
+/* Write your CSS here */
+
+.gitHub-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.git-unorderlist {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+}
+
+.failure-class {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.failure-view-img {
+  height: 90px;
+}
+.failure-text {
+  font-size: 30px;
+  font-weight: bold;
+}
